@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "statement": "Find the HCF of the following numbers using Euclid's Division Algorithm",
+    "link": "division"
+  },
+  {
+    "id": 2,
+    "statement": "Find the LCM & HCF of the following numbers using Prime Factorization Method",
+    "link": "lcm-hcf"
+  },
+  {
+    "id": 3,
+    "statement": "Factorize the following quadratic polynomial and find it's zeroes",
+    "link": "polynomial_roots"
+  },
+  {
+    "id": 4,
+    "statement": "Solve the following pair of linear equations",
+    "link": "linear-equation"
+  },
+  {
+    "id": 5,
+    "statement": "Find the roots of the following quadratic equation",
+    "link": "quadratic_zeroes"
+  },
+  {
+    "id": 6,
+    "statement": "Identify the nature of roots of the following Quadratic Equation",
+    "link": "quadratic_root_types"
+  },
+  {
+    "id": 7,
+    "statement": "Find the distance between following points on the cartesian plane",
+    "link": "coordinate-distance"
+  },
+  {
+    "id": 8,
+    "statement": "The following points are divided in the ratio __:__ on the cartesian plane.",
+    "link": "coordinate-segment"
+  },
+  {
+    "id": 9,
+    "statement": "Find the ratio in which the line joining the following points are divided by (__, __) on the cartesian plane",
+    "link": "coordinate-ratio"
+  }
+]

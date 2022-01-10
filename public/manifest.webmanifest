@@ -1,0 +1,66 @@
+{
+  "short_name": "Studious Guide",
+  "name": "Studious Guide Web",
+  "icons": [
+    {
+      "src": "icons/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "shortcuts": [
+    {
+      "name": "Real Numbers",
+      "short_name": "Real Numbers",
+      "description": "Questions in Real Numbers section",
+      "url": "/#real-numbers"
+    },
+    {
+      "name": "Quadratic Polynomials",
+      "short_name": "Polynomials",
+      "description": "Questions in Quadratic Polynomials section",
+      "url": "/#polynomials"
+    },
+    {
+      "name": "Linear Equations",
+      "short_name": "Linear Equations",
+      "description": "Questions in Linear Equations section",
+      "url": "/#linear_equations"
+    },
+    {
+      "name": "Quadratic Equations",
+      "short_name": "Quadratic Equations",
+      "description": "Questions in Quadratic Equations section",
+      "url": "/#quadratic_equations"
+    }
+  ],
+  "theme_color": "#111827",
+  "background_color": "#374151"
+}

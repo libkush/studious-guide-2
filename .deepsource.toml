@@ -1,0 +1,17 @@
+version = 1
+
+exclude_patterns = [
+  "src/serviceWorkerRegistration.ts",
+  "src/service-worker.ts"
+]
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  plugins = ["react"]
+
+[[transformers]]
+name = "prettier"
+enabled = true
