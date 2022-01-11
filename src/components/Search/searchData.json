@@ -43,5 +43,10 @@
     "id": 9,
     "statement": "Find the ratio in which the line joining the following points are divided by (__, __) on the cartesian plane",
     "link": "coordinate-ratio"
+  },
+  {
+    "id": 10,
+    "statement": "Find the area of the triangle with coordinates",
+    "link": "coordinate-triangle"
   }
 ]
