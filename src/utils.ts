@@ -211,7 +211,7 @@ export function formatDecimal(str: string): null | string {
       repeat = new Array(times + 1).join(pad); // Silly String.repeat hack
 
       if (0 === (offset + repeat).indexOf(str)) {
-        return pre + offset + "\\overline{" + pad + "}";
+        return pre + offset + "(" + pad + ")";
       }
     }
   }
