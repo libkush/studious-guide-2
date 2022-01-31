@@ -19,9 +19,6 @@ const Home = () => {
         <a className="button" href="#quadratic_equations">
           Quadratic Equations
         </a>
-        <a className="button" href="#ap">
-          Arithmetic Progression
-        </a>
         <a className="button" href="#coordinate">
           Coordinate Geometry
         </a>
