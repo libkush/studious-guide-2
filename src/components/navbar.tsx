@@ -196,60 +196,60 @@ const Navbar = () => {
             </a>
           </li>
 
-          <li className="nav-item">
-            <a href="#home" className="nav-link">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="32"
-                height="32"
-                viewBox="0 0 305 305"
-                fill="none"
-              >
-                <g clipPath="url(#clip0_6_37)">
-                  <rect
-                    x="169.653"
-                    y="143.835"
-                    width="37.0176"
-                    height="140.475"
-                    rx="10"
-                    transform="rotate(90 169.653 143.835)"
-                    fill="var(--color-secondary)"
-                  />
-                  <rect
-                    x="219.539"
-                    y="48.4508"
-                    width="37.0176"
-                    height="71.63"
-                    rx="10"
-                    transform="rotate(44.142 219.539 48.4508)"
-                    fill="var(--color-primary)"
-                  />
-                  <rect
-                    x="213.01"
-                    y="50.1849"
-                    width="37.0176"
-                    height="189.034"
-                    rx="10"
-                    fill="var(--color-primary)"
-                  />
-                  <rect
-                    x="81.2061"
-                    y="91.8071"
-                    width="37.0176"
-                    height="140.475"
-                    rx="10"
-                    fill="var(--color-primary)"
-                  />
-                </g>
-                <defs>
-                  <clipPath id="clip0_6_37">
-                    <rect width="305" height="305" fill="white" />
-                  </clipPath>
-                </defs>
-              </svg>
-              <span className="link-text">A.P</span>
-            </a>
-          </li>
+          // <li className="nav-item">
+          //   <a href="#home" className="nav-link">
+          //     <svg
+          //       xmlns="http://www.w3.org/2000/svg"
+          //       width="32"
+          //       height="32"
+          //       viewBox="0 0 305 305"
+          //       fill="none"
+          //     >
+          //       <g clipPath="url(#clip0_6_37)">
+          //         <rect
+          //           x="169.653"
+          //           y="143.835"
+          //           width="37.0176"
+          //           height="140.475"
+          //           rx="10"
+          //           transform="rotate(90 169.653 143.835)"
+          //           fill="var(--color-secondary)"
+          //         />
+          //         <rect
+          //           x="219.539"
+          //           y="48.4508"
+          //           width="37.0176"
+          //           height="71.63"
+          //           rx="10"
+          //           transform="rotate(44.142 219.539 48.4508)"
+          //           fill="var(--color-primary)"
+          //         />
+          //         <rect
+          //           x="213.01"
+          //           y="50.1849"
+          //           width="37.0176"
+          //           height="189.034"
+          //           rx="10"
+          //           fill="var(--color-primary)"
+          //         />
+          //         <rect
+          //           x="81.2061"
+          //           y="91.8071"
+          //           width="37.0176"
+          //           height="140.475"
+          //           rx="10"
+          //           fill="var(--color-primary)"
+          //         />
+          //       </g>
+          //       <defs>
+          //         <clipPath id="clip0_6_37">
+          //           <rect width="305" height="305" fill="white" />
+          //         </clipPath>
+          //       </defs>
+          //     </svg>
+          //     <span className="link-text">A.P</span>
+          //   </a>
+          // </li>
 
           <li className="nav-item">
             <a href="#coordinate" className="nav-link">
